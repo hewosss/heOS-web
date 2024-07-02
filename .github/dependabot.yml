@@ -4,3 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+theme: minima
+title: heOS
+author: HE
