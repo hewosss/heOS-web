@@ -1,2 +1,2 @@
 # heOS #
-install heOS here!
+install heOS [here!](https://github.com/hewosss/heOS-1.0)
